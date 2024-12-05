@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 저를 뽑아야 하는 이유는
 ---
 
 My name is sunghun Kim.
